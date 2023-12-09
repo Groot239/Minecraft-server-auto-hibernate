@@ -1,0 +1,22 @@
+[public]
+address = '0.0.0.0:3011'
+version = 'Join To Start'
+[server]
+directory = '.'
+command = 'java -Xms128M -XX:MaxRAMPercentage=95.0 -jar server.jar'
+wake_on_crash = true
+[time]
+sleep_after = 3600
+[motd]
+sleeping = '§cHosted By §6§lGrootOP Premium Host§7. Host Your Server For §4§lFREE §7on §a§lgrootop.in §e! §7join to start server'
+[join]
+methods = ['kick',]
+[join.kick]
+[join.hold]
+[join.forward]
+[join.lobby]
+[lockout]
+[rcon]
+[advanced]
+rewrite_server_properties = true
+[config]
