@@ -6,7 +6,7 @@ directory='.'
 command='java --add-modules=jdk.incubator.vector -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar server.jar'
 wake_on_crash=true
 [time]
-sleep_after=10800
+sleep_after=10810
 [motd]
 sleeping='§cHosted By §6§lGrootOP Premium Host§7. Host Your Server For §4§lFREE §7on §a§lfree.grootop.in §e!'
 [join]
