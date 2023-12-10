@@ -1,5 +1,5 @@
 [public]
-address = '0.0.0.0:3011'
+address = '0.0.0.0:(PORT)'
 version = 'Join To Start'
 [server]
 directory = '.'
